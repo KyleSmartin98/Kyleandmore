@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Kyle Martin's Resume</title>
+        <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.1/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+        <!--second css page-->
+        <link href="css/styles2.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">
+                <span class="d-block d-lg-none"><font size = 6> Kyle Martin</font></span>
+                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/Km2.jpg" alt="" /></span>
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li> 
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#chemistry_projects">Chemistry Projects</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#business_projects">Business Projects</a></li>
+                </ul>
+            </div>
+        </nav>
+        <!-- Page Content-->
+        <div class="container-fluid p-0">
+            <!-- About-->
+            <section class="resume-section" id="about">
+                <div class="resume-section-content">
+                    <h1 class="mb-0">
+                        Kyle 
+                        <span class="text-primary">Martin</span>
+                    </h1> 
+                    <div class="subheading mb-5">
+                         Philadelphia Metro Area, Pa 19355 · (484) 340-9411 ·
+                        <a href="mailto:kylesmartin98@gmail.com">KyleSmartin98@gmail.com</a>
+                    </div>
+                    <p class="lead mb-5">Hello, If you are checking out this cool website I designed you probably are interested in my background! I am a recent graudate with a <u>B.Sc degree in analytical chemistry and a minor in economics</u>. Along with a strong STEM background I am also a business owner. By leveraging my analytical and business accumen I can help your company adapt to current and future challenges through forward thinking, planning and execution. Please continue scrolling to see if I am a good fit for your company.   </p>
+                       <!--<div class="social-icons">
+                     <a class="social-icon" href="#"><i class="fab fa-linkedin-in"></i></a>
+                        <a class="social-icon" href="#"><i class="fab fa-github"></i></a>
+                        <a class="social-icon" href="#"><i class="fab fa-twitter"></i></a>
+                        <a class="social-icon" href="#"><i class="fab fa-facebook-f"></i></a>
+                    </div> -->
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Education-->
+            <section class="resume-section" id="education">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Education</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">City College of New York, CUNY</h3>
+                            <div class="subheading mb-3">Bachelor of Science</div>
+                            <div>Major: Analytical Chemistry</div>
+                            <p> Minor: Economics</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">August 2016 - Dec 2020</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h5 class="subheading mb-3">Instrumentation</h5>
+                            <ul>
+                              <li>ThermoFisher Evolution 300 Uv-vis Spectrophotometer</li>
+                                <li>Shimadzu 2600i Uv-vis Spectrophotometer</li>
+                              <li>ThermoFisher Nicolet iS 10 FT-IR (ATR) Spectrophotometer </li>
+                              <li>Physical Electronics Versaprobe II XPS</li>
+                              <li>Agilent 7890 Gas Chromatography </li>
+                              <li>ThermoFisher TSQ 9000 GC-MS</li>
+                              <li>ThermoFisher Spectralab HP-LC  </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Experience-->
+            <section class="resume-section" id="experience">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Experience</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Owner</h3>
+                            <div class="subheading mb-3"><a href="https://www.caretag.us/">WWW.Caretag.us</a></div>
+                            <p>Contact global sellers to source high-end clothing, accesories and collectible items. Curate e-commerce selection. Price inventory and oversee cashflow with <u>Microsoft Excel</u> and <u>Paypal Business account</u>. Produce online content for webstore and social media pages using <u>Adobe Photoshop</u>. Manage website using squarespace and light HTML. Communicate with buyers via email and social media direct message to sell merchandise and fulfill orders.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">2012 - Present</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Assistant Project Manager </h3>
+                            <div class="subheading mb-3"> NYC Health+Hospitals/Correctional Health Services</div>
+                            <p>Worked with principal project manager and stakeholders to draft application workflows. Communicated stakeholders requirements with application developers using <u>Microsoft Outlook</u> and <u>Cisco Webex</u>. Performed application troubleshooting and indexed bugs with <u>Microsoft Excel</u>.Using <u>Microsoft Word and Paint</u> I drafted internal technical documents for three internal applications:</p>
+                            <ul>
+                                <li>Timekeeping and payroll </li>
+                                <li>Hiring</li>
+                                <li>New application approval and funding</li>
+                            </ul>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">2019 - 2020 </span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Merchandising Associate</h3>
+                            <div class="subheading mb-3">Aritzia</div>
+                            <p>Verified daily sales targets were met using POS system. Managed stock levels with digital inventory system. Communicated between stores to ensure adequate stock in the New York Metro area. Delegated sales associates to remove overflow stock from showroom. Helped re-organize store layout for easier customer access and product aqcuisition. Aided customers with placing orders for out-of-stock inventory.  </p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">2016-2018</span></div>
+                    </div>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Skills-->
+            <section class="resume-section" id="skills">
+                <div class="resume-section-content">
+                    <h2 class="mb-6">Skills</h2>
+                    <div class="subheading mb-3">Programs & Tools</div>
+                    <ul class="list-inline dev-icons">
+                        <li class="list-inline-item"><img src="assets/img/python.png" title="Python" width="50px" height="50px"/></li>  
+                        <li class="list-inline-item"><img src="assets/img/markdown.png" title="Markdown" width="60px" height="60px"/></li>
+                        <li class="list-inline-item"><img src="assets/img/html.png" title="HTML" width="50px" height="50px"/></li>  
+                        <li class="list-inline-item"><img src="assets/img/excel.png" title="Excel" width="50px" height="50px"/></li>  
+                        <li class="list-inline-item"><img src="assets/img/word.png" title="Word" width="50px" height="50px"/></li>
+                        <li class="list-inline-item"><img src="assets/img/powerpoint.png" title="Powerpoint" width="50px" height="50px"/></li>  
+                        <li class="list-inline-item"><img src="assets/img/outlook.png" title="Outlook" width="50px" height="50px"/></li>                   
+                        <li class="list-inline-item"><img src="assets/img/ps.png" title="Photoshop" width="50px" height="50px"/></li>  
+                        <li class="list-inline-item"><img src="assets/img/jupyter.png" title="Jupyter" width="70px" height="70px"/></li> 
+                        <li class="list-inline-item"><img src="assets/img/Colab.png" title="Google Colab" width="65px" height="65px"/></li>
+                        <li class="list-inline-item"><img src="assets/img/origin.png" title="Origin Pro Lab" width="50px" height="50px"/></li> 
+
+                         <!--<li class="list-inline-item"><i class="fab fa-less"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-wordpress"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-gulp"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-grunt"></i></li>
+                        <li class="list-inline-item"><i class="fab fa-npm"></i></li> -->
+                    </ul>
+                    <div class="subheading mb-3">Workflow</div>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Recognize problem
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Index problem and formulate solution
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Execute solution
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Create record of workflow for later use 
+                        </li>
+                    </ul>
+                </div>
+            </section>
+            <hr class="m-0" />
+            <!-- Projects-->
+            <section class="resume-section" id="chemistry_projects">
+                <div class="resume-section-content">
+                    <h2 class="mb-6">Chemistry Projects</h2>
+                       <div class="d-flex flex-column flex-md-row justify-content-between">
+                            <div class="flex-grow-1">
+                            <h3 class="mb-0">GC-MS & Nuclear Magnetic Resonance (NMR) of Cinnemaldehyde</h3>
+                            <div>
+                               <b><font size = 5 style="font-family:sans-serif">Purpose:</font></b> Find the purity of a cinnemaldehyde sample that I synthesized. Because the cinnemaldehyde was synthesized using cinnamic-acid and other organic compounds there was a possibility that purification via roto-evaporation did not remove excess reactants, solvents or oxidized product (cinnamic acid).
+                            </div>
+                             <div>
+                                <b><font size = 4 style="font-family:sans-serif">Instruments Used:</font></b> 
+                                 <ul>
+                                     <li>NMR</li>
+                                     <li>ThermoFisher TSQ 9000 GC-MS</li>
+                                 </ul>
+                            </div>
+                            </div>
+                    </div>
+                    <iframe frameborder="0" scrolling="yes"
+                                 width="550" height="650"
+                                 src="https://drive.google.com/file/d/1c4acKLEXxQhxt8D9dBeLdepAK5QSAGU6/preview" style="border-radius: 10px; overflow: hidden; border:3mm ridge rgba(102, 156, 192, 1);"><script>window.onmessage=e=>{e.data.hasOwnProperty("frameHeight")&&(document.getElementById("i").style.height=`${e.data.frameHeight+30}px`)}</script>
+                    </iframe>
+                    
+                            <pre>&#9;</pre>
+                          <h3 class="mb-0">Absorption Spectra of Conjugated Dyes</h3>
+                            <div>
+                               <b><font size = 5 style="font-family:sans-serif">Purpose:</font></b> Derive the size of a 2-dimensional box for a set of conjugated dyes using a Uv-Vis spectrophotometer, the 2-dimenisional Schrodinger's equation and Python. 
+                            </div>
+                             <div>
+                                <b><font size = 5 style="font-family:sans-serif">Instruments Used:</font></b> 
+                                 <ul>
+                                     <li>Shimadzu 2600i Uv-vis Spectrophotometer</li>
+                                 </ul>
+                                 <b><font size = 4 style="font-family:sans-serif">Applications Used:</font></b> 
+                                 <ul>
+                                     <li>Python</li>
+                                     <li>Jupyter Notebook</li>
+                                     <li>Markdown</li>
+                                     <li>Excel</li>
+                                 </ul>
+                                
+                            </div>
+                            
+                    <iframe frameborder="0" scrolling="yes"
+                                 width="550" height="650"
+                                 src="https://drive.google.com/file/d/1l2JPborGblhezFMepDyI3WDW1OjH6ywg/preview" style="border-radius: 10px; overflow: hidden; border:3mm ridge rgba(102, 156, 192, 1);"><script>window.onmessage=e=>{e.data.hasOwnProperty("frameHeight")&&(document.getElementById("i").style.height=`${e.data.frameHeight+30}px`)}</script>
+                    </iframe>
+                        <pre>&#9;</pre>
+                          <h3 class="mb-0">Analysis of Unknown Titanium Sample using X-Ray Photoelectron Spectroscopy (XPS)</h3>
+                            <div>
+                               <b><font size = 5 style="font-family:sans-serif">Purpose:</font></b> Use XPS to identify the oxidation state and crytsalline structure of an unknown Titanium sample. Analyze spectrum using python. 
+                            </div>
+                             <div>
+                                <b><font size = 5 style="font-family:sans-serif">Instruments Used:</font></b> 
+                                 <ul>
+                                     <li>X-Ray Photoelectron Spectrophotometer using K&alpha radiation source </li>
+                                 </ul>
+                                 <b><font size = 4 style="font-family:sans-serif">Applications Used:</font></b> 
+                                 <ul>
+                                     <li>Python</li>
+                                     <li>Jupyter Notebook</li>
+                                     <li>Markdown</li>
+                                     <li>Excel</li>
+                                 </ul>
+                                
+                            </div>
+                            
+                    <iframe frameborder="0" scrolling="yes"
+                                 width="550" height="650"
+                                 src="https://drive.google.com/file/d/1qvZs6qW0A3Vqc1pcYjtc9rQR_zMkvNTa/preview" style="border-radius: 10px; overflow: hidden; border:3mm ridge rgba(102, 156, 192, 1);"><script>window.onmessage=e=>{e.data.hasOwnProperty("frameHeight")&&(document.getElementById("i").style.height=`${e.data.frameHeight+30}px`)}</script>
+                    </iframe>     
+                </div>
+            </section>
+            <hr class="m-0" /> 
+            <!-- Awards-->
+            <section class="resume-section" id="business_projects">
+                <div class="resume-section-content">
+                    <h2 class="mb-6">Business Projects</h2>
+                        <div class="d-flex flex-column flex-md-row justify-content-between">
+                            <div class="flex-grow-1">
+                            <h3 class="mb-0">Agewell Application Proposal</h3>
+                            <div>
+                               <b><font size = 5 style="font-family:sans-serif">Purpose:</font></b> Proposal to CVS Pharmacy for a new smartphone application targeted to individuals age 65+. This proposal includes the raison-d'etre, market potential, beta-testing, product design and roll-out strategy.  
+                            </div>
+                             <div>
+                                <b><font size = 4 style="font-family:sans-serif">Applications Used:</font></b> 
+                                 <ul>
+                                     <li>Word</li>
+                                     <li>Excel</li>
+                                     <li>Python</li>
+                                 </ul>
+                            </div>
+                            </div>
+                    </div>
+                    <iframe frameborder="0" scrolling="yes"
+                                 width="550" height="650"
+                                 src="https://drive.google.com/file/d/1aUwNzJdwxglSFFqbYQlWjgju8oCaejI5/preview" style="border-radius: 10px; overflow: hidden; border:3mm ridge rgba(102, 156, 192, 1);"><script>window.onmessage=e=>{e.data.hasOwnProperty("frameHeight")&&(document.getElementById("i").style.height=`${e.data.frameHeight+30}px`)}</script>
+                    </iframe>   
+                        <pre>&#9;</pre>
+                          <h3 class="mb-0"><a href="https://www.caretag.us/marketresearch">"Whats up With Ramones?", Rick Owens Ramones Pricing During the  First Half of 2020 (Covid-19)</a> </h3>
+                            <div>
+                               <b><font size = 5 style="font-family:sans-serif">Purpose:</font></b> Compile and analyze the sold prices of a high-demand item from Grailed.com, a luxury marketplace, before and during the pandemic. Use this data to create an infographic to be posted on Instagram. Use this promotion to justify the increase in prices with customers who are price-conscious. 
+                             <div>
+                                 <b><font size = 4 style="font-family:sans-serif">Applications Used:</font></b> 
+                                 <ul>
+                                     <li>Excel</li>
+                                     <li>Photoshop</li>
+                                 </ul>
+                                
+                                </div>     
+                    <iframe frameborder="0" scrolling="yes"
+                                 width="550" height="650"
+                                 src="https://drive.google.com/file/d/1qvZs6qW0A3Vqc1pcYjtc9rQR_zMkvNTa/preview" style="border-radius: 10px; overflow: hidden; border:3mm ridge rgba(102, 156, 192, 1);"><script>window.onmessage=e=>{e.data.hasOwnProperty("frameHeight")&&(document.getElementById("i").style.height=`${e.data.frameHeight+30}px`)}</script>
+                    </iframe>     
+                </div>
+            </section>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Third party plugin JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
