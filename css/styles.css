@@ -10112,3 +10112,24 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+/*pulsating text*/
+.pulsate {
+  -webkit-animation: pulsate 3s ease-out;
+  -webkit-animation-iteration-count: infinite;
+  opacity: 0.5;
+  color: #0066ff
+}
+
+@-webkit-keyframes pulsate {
+  0% {
+    opacity: 0.5;
+  }
+
+  50% {
+    opacity: 1.0;
+  }
+
+  100% {
+    opacity: 0.5;
+  }
+}
